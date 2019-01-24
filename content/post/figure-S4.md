@@ -3,12 +3,12 @@ title = "Figure S4"
 date = "2019-01-24"
 author = "Lukasz Migas"
 cover = ""
-description = "Figure S4 - "
+description = "Figure S4 - Mass spectra for the IgG1 Fc-hinge fragment"
 +++
 
 ## Figure caption
 
-
+Mass spectra for the IgG1 Fc-hinge fragment (a) fully glycosylated (intact), (b) following endoS2 treatment (truncated glycans) and (c) following PNGase F treatment (fully deglycosylated).
 
 [Open in another tab](https://upton-herceptin-2019.netlify.com/assets/Figure_S4.html)
 

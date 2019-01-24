@@ -3,12 +3,12 @@ title = "Figure S3"
 date = "2019-01-24"
 author = "Lukasz Migas"
 cover = ""
-description = "Figure S3 - "
+description = "Figure S3 - Mass spectra for the NIST mAb standard"
 +++
 
 ## Figure caption
 
-
+Mass spectra for the NIST mAb standard (a) fully glycosylated (intact), (b) following endoS2 treatment (truncated glycans) and (c) following PNGase F treatment (fully deglycosylated) 
 
 [Open in another tab](https://upton-herceptin-2019.netlify.com/assets/Figure_S3.html)
 

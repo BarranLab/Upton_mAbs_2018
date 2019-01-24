@@ -3,12 +3,12 @@ title = "Figure S2"
 date = "2019-01-24"
 author = "Lukasz Migas"
 cover = ""
-description = "Figure S2 - "
+description = "Figure S2 - Mass spectra of Herceptin® "
 +++
 
 ## Figure caption
 
-
+Mass spectra for Herceptin® (a) fully glycosylated (intact), (b) following endoS2 treatment (truncated glycans) and (c) following PNGase F treatment (fully deglycosylated).
 
 [Open in another tab](https://upton-herceptin-2019.netlify.com/assets/Figure_S2.html)
 
