@@ -15,9 +15,9 @@ Mass spectra for the NIST mAb standard (a) fully glycosylated (intact), (b) foll
 ## Interactive figure
 
 <iframe
-    width="1000"
+    width="1150"
     frameborder="0"
-    height="1150"
+    height="1200"
     src="https://upton-herceptin-2019.netlify.com/assets/Figure_S3.html"
     style="background: #FFFFFF;"
 ></iframe>

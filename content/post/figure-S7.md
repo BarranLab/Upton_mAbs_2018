@@ -10,14 +10,14 @@ description = "Figure S7 - CCSD plots for intact, endoS2 treated and deglycosyla
 
 <sup>DT</sup>CCSD<sub>He</sub> plots for fully glycosylated (intact), partially deglycosylated (endo S2 treated) and fully deglycosylated (PNGase F treated) IgG1 mAbs (charge state range 22+ to 25+). Data fitted with Gaussians (cumulative fit plotted) and normalised against (IMS area fraction) x (MS peak height fraction). Width of shading around each peak denotes the standard deviation calculated, n=3.
 
-[Open in another tab](https://upton-herceptin-2019.netlify.com/assets/Figure_S7.html)
+*Recommended* [Open in another tab](https://upton-herceptin-2019.netlify.com/assets/Figure_S7.html)
 
 ## Interactive figure
 
 <iframe
     width="1000"
     frameborder="0"
-    height="1150"
+    height="1000"
     src="https://upton-herceptin-2019.netlify.com/assets/Figure_S7.html"
     style="background: #FFFFFF;"
 ></iframe>

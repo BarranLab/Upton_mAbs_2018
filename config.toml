@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-uk"
-title = "Interactive figures - Upton - Herceptin"
+title = "Upton - Herceptin - 2019"
 theme = "hello-friend"
 copyright = ""
 paginate = 5
@@ -11,7 +11,7 @@ paginate = 5
   defaultTheme = "dark"
 
 [params.logo]
-  logoText = "ORIGAMI 2018/19"
+  logoText = "Herceptin 2019"
   # or
   #
 # path = "/img/your-example-logo.svg"

@@ -15,9 +15,9 @@ Deuterium uptake difference plots for heavy chain (HC) intact vs. endoS2 treated
 ## Interactive figure
 
 <iframe
-    width="1000"
+    width="875"
     frameborder="0"
-    height="1150"
+    height="900"
     src="https://upton-herceptin-2019.netlify.com/assets/Figure_4.html"
     style="background: #FFFFFF;"
 ></iframe>

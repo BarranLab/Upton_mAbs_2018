@@ -20,9 +20,9 @@ Figure S11: Herceptin® mAb lot C
 ## Interactive figure
 
 <iframe
-    width="1000"
+    width="700"
     frameborder="0"
-    height="1150"
+    height="800"
     src="https://upton-herceptin-2019.netlify.com/assets/Figure_S9-12.html"
     style="background: #FFFFFF;"
 ></iframe>
