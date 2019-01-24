@@ -3,12 +3,12 @@ title = "Figure S9-12"
 date = "2019-01-24"
 author = "Lukasz Migas"
 cover = ""
-description = "Figure S9-12 - "
+description = "Figure S9-12 - Collision energy activated IM-MS heat maps of IgG1 NIST and Herceptin® lot A/B/C"
 +++
 
 ## Figure caption
 
-Collision energy activated IM-MS heat map of the IgG1 NIST mAb with (a) glycans, (b) truncated (endoS2 treated) glycans and (c) no glycans. Mass selected 24+ charge state with collision voltage range 4-200 V, n=3.
+Collision energy activated IM-MS heat map of the IgG1 NIST/Herceptin® lot A/B/C mAb with (a) glycans, (b) truncated (endoS2 treated) glycans and (c) no glycans. Mass selected 24+ charge state with collision voltage range 4-200 V, n=3.
 
 Figure S8: IgG1 NIST mAb
 Figure S9: Herceptin® mAb lot A
