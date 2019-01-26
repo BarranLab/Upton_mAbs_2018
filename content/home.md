@@ -13,7 +13,7 @@ Please click on any of the links below to be redirected to an interactive figure
 
 [Figure S3](https://upton-herceptin-2019.netlify.com/assets/figure_s3.html): Mass spectra for the NIST mAb standard (a) fully glycosylated (intact), (b) following endoS2 treatment (truncated glycans) and (c) following PNGase F treatment (fully deglycosylated).
 
-[Figure S4](https://upton-herceptin-2019.netlify.com/assets/figure_s4.html): Mass spectra for the IgG1 Fc-hinge fragment (a) fully glycosylated (intact), (b) following endoS2 treatment (truncated glycans) and (c) following PNGase F treatment (fully deglycosylated). 
+[Figure S4](https://upton-herceptin-2019.netlify.com/assets/figure_s4.html): Mass spectra for the IgG1 Fc-hinge fragment (a) fully glycosylated (intact), (b) following endoS2 treatment (truncated glycans) and (c) following PNGase F treatment (fully deglycosylated).
 
 [Figure S7](https://upton-herceptin-2019.netlify.com/assets/figure_s7.html): DTCCSDHe plots for fully glycosylated (intact), partially deglycosylated (endo S2 treated) and fully deglycosylated (PNGase F treated) IgG1 mAbs (charge state range 22+ to 25+). Data fitted with Gaussians (cumulative fit plotted) and normalised against (IMS area fraction) x (MS peak height fraction). Width of shading around each peak denotes the standard deviation calculated, n=3.
 
