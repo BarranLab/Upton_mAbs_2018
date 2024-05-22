@@ -10,7 +10,7 @@ description = "Figure S4 - Mass spectra for the IgG1 Fc-hinge fragment"
 
 Mass spectra for the IgG1 Fc-hinge fragment (a) fully glycosylated (intact), (b) following endoS2 treatment (truncated glycans) and (c) following PNGase F treatment (fully deglycosylated).
 
-[Open in another tab](https://upton-herceptin-2019.netlify.com/assets/Figure_S4.html)
+[Open in another tab](https://upton-herceptin-2019.netlify.app/assets/Figure_S4.html)
 
 ## Interactive figure
 
@@ -18,7 +18,7 @@ Mass spectra for the IgG1 Fc-hinge fragment (a) fully glycosylated (intact), (b)
     width="1150"
     frameborder="0"
     height="1200"
-    src="https://upton-herceptin-2019.netlify.com/assets/Figure_S4.html"
+    src="https://upton-herceptin-2019.netlify.app/assets/Figure_S4.html"
     style="background: #FFFFFF;"
 ></iframe>
 

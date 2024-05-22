@@ -10,7 +10,7 @@ description = "Figure 4 - Deuterium uptake difference plots for heavy chain (HC)
 
 Deuterium uptake difference plots for heavy chain (HC) intact vs. endoS2 treated Herceptin®; endoS2–intact. Each bar represents a different peptide (HC sequence coverage = 70.2%, 55 peptides). Blue bars represent the deuterium uptake differences for Herceptin® lot C; orange bars represent deuterium uptake differences for Herceptin® lot A. Labelled peptides 5–17 (VESGGGLVQPGGS) and 265–280 (VVVDVSHEDPEVKFNW) are those with significant uptake differences between the two Herceptin® lots i.e. a difference of >1 Da (see ESI Fig. S16† for the Herceptin® lot C–lot A subtraction plot); * corresponds to the equivalent peptide in the other sample. The peptide locations for the two peptides with uptake differences >1 Da are highlighted on the mAb structures in blue and orange for lot C and lot A, respectively (PDB: 1IGY). A representation of endoS2 treated glycans are shown in red. Subtraction of intact mAb data from enzyme treated mAb data for individual lots, means that the intact data serves as a control to counteract any day-to-day variations in the HDX setup.
 
-[Open in another tab](https://upton-herceptin-2019.netlify.com/assets/Figure_4.html)
+[Open in another tab](https://upton-herceptin-2019.netlify.app/assets/Figure_4.html)
 
 ## Interactive figure
 
@@ -18,7 +18,7 @@ Deuterium uptake difference plots for heavy chain (HC) intact vs. endoS2 treated
     width="875"
     frameborder="0"
     height="900"
-    src="https://upton-herceptin-2019.netlify.com/assets/Figure_4.html"
+    src="https://upton-herceptin-2019.netlify.app/assets/Figure_4.html"
     style="background: #FFFFFF;"
 ></iframe>
 
